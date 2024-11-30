@@ -1,0 +1,1 @@
+This project focuses on detecting overlapping communities in dynamic networks. Unlike traditional static community detection methods, this approach identifies communities that evolve over time, allowing for the analysis of networks where nodes and edges may change dynamically.
